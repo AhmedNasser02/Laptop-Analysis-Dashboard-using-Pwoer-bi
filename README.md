@@ -9,9 +9,6 @@ The Laptop Sales Analysis Dashboard project is designed to provide insights into
 2. [Usage](#usage)
 3. [Configuration](#configuration)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Authors](#authors)
-7. [Acknowledgments](#acknowledgments)
 
 ## Installation
 To use this project, follow these steps:
